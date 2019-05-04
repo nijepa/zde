@@ -1,0 +1,5 @@
+{
+    "name": "rt7/php-traditional-server",
+    "description": "Endpoint handler for Fine Uploader's traditional server requests.",
+    "license": "MIT"
+}
